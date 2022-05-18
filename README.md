@@ -1,9 +1,9 @@
-# vite-sdk-ts
+# tiny-painter
 
-vite-sdk-ts is a dev template
+tiny-painter is a simple, fast and lightweight painting toolkit.
 
 ## Usage
 
 ```ts
-// how to use
+// Create a new painter
 ```
