@@ -15,13 +15,14 @@ export function main() {
 
   const points: Point[] = [];
 
-  ctx.lineWidth = 10;
-  ctx.lineCap = 'round';
-  ctx.lineJoin = 'round';
 
   function clear() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
   }
+
+  ctx.lineWidth = 10;
+  ctx.lineCap = 'round';
+  ctx.lineJoin = 'round';
 
   function draw(p: Point[]) {
     if (p.length % 2 === 1) {

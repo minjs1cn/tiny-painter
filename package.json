@@ -26,7 +26,7 @@
   ],
   "scripts": {
     "dev": "vitest",
-    "dev:web": "vite",
+    "playground": "vite",
     "build": "unbuild",
     "preview": "vite build",
     "test": "vitest",

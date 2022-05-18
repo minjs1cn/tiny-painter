@@ -2,15 +2,15 @@
   "extends": ["stylelint-config-standard", "stylelint-config-recess-order"],
   "overrides": [
     {
-      "files": ["src/**/*.scss"],
+      "files": ["**/*.scss"],
       "customSyntax": "postcss-scss"
     },
     {
-      "files": ["src/**/*.less"],
+      "files": ["**/*.less"],
       "customSyntax": "postcss-less"
     },
     {
-      "files": ["src/**/*.vue"],
+      "files": ["**/*.vue"],
       "customSyntax": "postcss-html"
     }
   ]
