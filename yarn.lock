@@ -1928,10 +1928,10 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-eslint-config-jammy@^0.0.9:
-  version "0.0.9"
-  resolved "https://registry.npmjs.org/eslint-config-jammy/-/eslint-config-jammy-0.0.9.tgz#9ec0660ab81a7dd697f04bab3cf98f94944e466b"
-  integrity sha512-VWXGRrlnpTIsH8w/nrtHEsjqs/PIXbE5XH7jOZFYTdif136FRmD+FTrJBWAr3UFq+1v/aVbnRta/eUVOONYWEQ==
+eslint-config-jammy@^0.0.11:
+  version "0.0.11"
+  resolved "https://registry.npmjs.org/eslint-config-jammy/-/eslint-config-jammy-0.0.11.tgz#847e1872cc2493f2cd22364a51339ee1e941ca06"
+  integrity sha512-LtycaVXM/F2eo7v2NDv4PmsUHzpigyl570PfCXbwdWgaV3VNCnBfaeQdawNJuEr0UGYa8YdJdxmNGiJozfWbAw==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^5.17.0"
     "@typescript-eslint/parser" "^5.17.0"

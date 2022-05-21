@@ -41,7 +41,7 @@
     "@commitlint/config-conventional": "^16.2.4",
     "@vitejs/plugin-vue": "^2.3.3",
     "eslint": "^8.15.0",
-    "eslint-config-jammy": "^0.0.9",
+    "eslint-config-jammy": "^0.0.11",
     "husky": "^8.0.1",
     "less": "^4.1.2",
     "lint-staged": "^12.4.1",
